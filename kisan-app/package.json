@@ -6,8 +6,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "vitest",
-    "start": "node login.jsx"
+    "test": "vitest"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",

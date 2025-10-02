@@ -4,3 +4,5 @@ builder = "NIXPACKS"
 [deploy]
 startCommand = "npm start"
 root = "backend"
+[variables]
+RAILWAY_DEBUG = "true"

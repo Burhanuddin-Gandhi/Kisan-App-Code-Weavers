@@ -1,4 +1,3 @@
-# Kisan App
 # Kisan AI
 
 ### AI-Powered Agricultural Assistance Platform
